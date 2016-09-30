@@ -2,8 +2,8 @@
 title: Steven Christou's CV 
 description: Steven Christou's CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://stevenchristou.com
-url: https://stevenchristou.com
+baseurl: http://stevenchristou.com
+url: http://stevenchristou.com
 rss_url: /pages/atom.xml
 google_analytics: UA-42012239-2
 
@@ -23,7 +23,7 @@ author:
   github: christ66
   linkedin: steven-christou
   twitter: schristou88
-  gavatar: /resumecard/assets/img/avatar.JPG
+  gavatar: /assets/img/avatar.JPG
   stackoverflow: 556520
   workHistory:
     - work1:
