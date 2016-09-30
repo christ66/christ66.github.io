@@ -1,11 +1,11 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Steven Christou's CV 
+description: Steven Christou's CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+baseurl: https://stevenchristou.com
+url: https://stevenchristou.com
 rss_url: /pages/atom.xml
-google_analytics: UA-63653234-1
+google_analytics: UA-42012239-2
 
 # Build settings
 markdown: kramdown
@@ -14,72 +14,73 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
+  name: Steven Christou
   title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
+  address: Raleigh, North Carolina
+  email: schristou88@gmail.com
+  link: http://stevenchristou.com
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: christ66
+  linkedin: steven-christou
+  twitter: schristou88
   gavatar: /resumecard/assets/img/avatar.JPG
-  stackoverflow:
-#  stackoverflow: 4582127
+  stackoverflow: 556520
   workHistory:
     - work1:
-      company: Finzsoft Solutions Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: CloudBees
+      location: Raleigh, North Carolina
+      title: Technical Enablement
+      started: 2016
+      duration: (2016 - Present)
+      description: I am part of the Technical Enablement team. I currently design and implement backend components which are designed to help improve the productivity of support engineers. Most of my work revolves around coding backend services to improve the productivity of support engineers and engineers. I also fix bugs and implement new features in Jenkins core and several of the plugins.
     - work2:
-      company: Agfa HealthCare
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Google
+      location: Raleigh, North Carolina
+      title: Student Mentor
+      started: 2016
+      duration: (April 2016 - August 2016)
+      description: I was a student mentor for the Google Summer of Code 2016. I was mentoring a student who was working on a Jenkins plugin called the support core plugin.
     - work3:
-      company: Citigroup Services and Technology (China) Limited
-      location: Shanghai, China
-      title: Java Developer
+      company: CloudBees
+      location: San Jose, California
+      title: Developer Support Engineer
+      started: 2012
+      duration: (2013 - 2016)
+      description: I work on providing bug fixes for Jenkins, Jenkins plugins, and Jenkins enterprise. I also work on troubleshooting and diagnosing issues that customers encounter.
+    - work4:
+      company: Oracle
+      location: Milwaukee, Wisconsin
+      title: Hudson CI Contractor
+      started: 2012
+      duration: (2012 - 2013)
+      description: I worked on the continuous integration tool Hudson for Oracle. I developed and maintained core code, as well as multiple plugins.
+    - work5:
+      company: RedPrairie
+      location: Waukesha, Wisconsin
+      title: Software Developer Intern
       started: 2009
       duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-  educationHistory:
-    - education1:
-      organization: Northeastern University
-      location: Shenyang, China
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: I introduced tools like findbugs, pmd and cobertura to their current build system. I also helped fix violations from findbugs and pmd, as well as bug fixing and re-writing their build and CI scripts.
   languages:
     - language1:
-      name: Chinese
+      name: English
       proficiency: Native
     - language2:
-      name: English
-      proficiency: Professional
-    - language3:
-      name: Japanese
+      name: Spanish
       proficiency: Limit
   programmingSkills:
     - skill1:
-      name: HTML
+      name: Java
       percentage: 100%
     - skill2:
-      name: Bootstrap
-      percentage: 90%
+      name: Groovy/Gradle
+      percentage: 95%
     - skill3:
-      name: JavaScript
+      name: C++/C#
       percentage: 70%
     - skill4:
-      name: AngularJS
+      name: HTML
+      percentage: 60%
+    - skill5: BASH
+      name: 
       percentage: 70%
-    - skill5:
-      name: Java/Java EE
-      percentage: 90%
