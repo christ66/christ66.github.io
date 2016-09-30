@@ -81,6 +81,6 @@ author:
     - skill4:
       name: HTML
       percentage: 60%
-    - skill5: BASH
-      name: 
+    - skill5: 
+      name: BASH
       percentage: 70%
