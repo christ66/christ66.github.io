@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/schristou88
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://stevenchristou.com
+  * I am schristou88 (https://keybase.io/schristou88) on keybase.
+  * I have a public key with fingerprint 0D0F 0770 3370 1BDF 2ECF  DF28 8506 CC6B 684E AC67
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101ef0d58bd3349a7637783229034005e2e9bd877289dab49096b67dba09ca4edc90a",
+            "fingerprint": "0d0f077033701bdf2ecfdf288506cc6b684eac67",
+            "host": "keybase.io",
+            "key_id": "8506cc6b684eac67",
+            "kid": "0101ef0d58bd3349a7637783229034005e2e9bd877289dab49096b67dba09ca4edc90a",
+            "uid": "36cd95680f00601c4a8fd7aaa01bb919",
+            "username": "schristou88"
+        },
+        "service": {
+            "hostname": "stevenchristou.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1479422890,
+    "expire_in": 157680000,
+    "prev": "869b7236de0eca4debaafff0e390375e428a96941b0de20fba62e6d0ca72b8cd",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtUm1QVFUY3l2IBAalEaFhNpNbqMXHnvt974ZMVg4UCUQfYErLvfecZW8Lu8vu
+8o1DEzrJxlghlQKKoIOE9DlmWDCUWoLrwGAlyYxhFh8yqMtU0zQM0rlM/Otn58c5
+c877PM95nnfetyOCdAb93pBLdltmT6Hef1PW5SXTn1YTshNWEuZqwo6WD1QEkcdr
+sauQMBOABCSyAsgKMqRpRpR4juZ5gaYoEdAMACyikChDgecpQYSSzIhA5GSOh7IE
+REViEFREIBGJhFV1FCK3y606vJosBFbA84CmeUDK0EohxYp3QWABpyhYQGCQpHA8
+JtqcHo2BzcmSByWrTvyGL5Zle/+B/599ly7L0ZwCRZYTsGvAAVJhJMEKeUmSsHtZ
+JEUN6EFuh1SMMNqj2Nyqx+ssFQRidyKBC2WqgrTeamFWQF5UhhwryGTFWYxFXG6n
+16k4i3Dd5vW6zBrdW+nS8OVItvyrZJFVB8T9xIQy5PaoTgdhJjFS8aqaNMnwIkPh
+XCCRQBUu1Y0sqoZgeRwAL+0bVEaYJULgRJmnaA4igHBoiGRJslqtANG4SzyLGEqQ
+RE5kSBlARAGrLHEU4iBQJJ6SBQUSWrgShxOLk9ioVKjlUgsdkrfUjYjdYfUGY7BO
+b9CF3GPQRk0XFhq5Mn8jwWuW1PDpTx5MyIk1Fen0x5ZG6V6+9cJP4oUPIzs/Lra8
+EZ20lD17kl2dGTQ7nDQXEWhuz+vpbB9feyv7qg8GMU+/F53fxPkGMw27Zvef8afn
+Tlxc+Izqf3EuLqV7srw1DI7mmO8cmA/I/nb75ObVg3VnD47NVDy73tJvzBBbPzpj
+aqx+f6Z8b/eEp6opcvCmaY5bT7G2CvrJ8oMPTC3c/bO24PNXfSlRsbM3IvjJ+m/8
+jdFTcYHQZtc2Q0VbASxVvt16vz/vqc1UQ1T+769kvTA3EDob/sTfR/dN3+1pPp1q
+4pKMRPrLi/Pl1068tbHmgJz2QYsQl6o8dq//9uF1GZW2xDW3hgL+Zyxnu3oXTo//
+bI89ND12uSC358gO8RQcKj0R9EtDxqa+zhJXpLF4bCwm5nmP7nvjBkOdr3H89RuH
+akJb32m//cXU9b4Ff0nH9oTqLa7879oa4sG+rOSl+tGX6u17EgM1lX+RD9WlD0fF
+Xy9qaq65Lz7wWjB7ctHXBHPOSw3BRmFHVsOqoR59y4aQxzvOF9wZZjd2sz8eH21J
+G0rb1dGVa06++Gv2c6Y9tRNzq/bXnrt2KqC/1Pdu8ZGYtv6vLx+zbXXN/zASQQYz
+Jn2V23U4byT96EDqzqtdb6Z9uf23qnPHB0a/YtZeWVf58B9tOzeFDy+SU0G9ukdT
+HslNG9hSlTCz7UrTPw==
+=IoKl
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/schristou88
+
+==================================================================
