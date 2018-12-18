@@ -2,8 +2,8 @@
 title: Steven Christou's CV 
 description: Steven Christou's CV
 favicon: /assets/img/avatar.JPG
-baseurl: http://stevenchristou.com
-url: http://stevenchristou.com
+baseurl: https://stevenchristou.com
+url: https://stevenchristou.com
 rss_url: /pages/atom.xml
 google_analytics: UA-42012239-2
 
@@ -18,7 +18,7 @@ author:
   title: Java Developer
   address: Raleigh, North Carolina
   email: schristou88@gmail.com
-  link: http://stevenchristou.com
+  link: https://stevenchristou.com
   weibo:
   github: christ66
   linkedin: steven-christou
